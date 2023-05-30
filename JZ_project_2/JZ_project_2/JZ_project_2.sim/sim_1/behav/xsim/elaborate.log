@@ -1,0 +1,12 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 971883632f9c4cbfb70199cd86b5506f --incr --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_13 -L xil_defaultlib -L blk_mem_gen_v8_4_4 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'addr' [D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/top.v:133]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'read_mem_data' [D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/top.v:136]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 32 for port 'read_mem_data' [D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/top.v:139]
+WARNING: [VRFC 10-5021] port 'clka' is not connected on this instance [D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/inst_memory.v:30]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
