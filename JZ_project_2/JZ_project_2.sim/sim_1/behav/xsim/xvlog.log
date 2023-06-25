@@ -1,0 +1,31 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/ip/data_memory_ip/sim/data_memory_ip.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory_ip
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/ip/instruction_memory_ip/sim/instruction_memory_ip.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_memory_ip
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/alua_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUA_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/alub_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUB_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DATA_MEMORY
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXTEND
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/inst_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INST_MEMORY
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/npc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2458] undeclared symbol read_mem_data, assumed default net type wire [D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/top.v:137]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sources_1/new/write_back_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WB_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Jun 25 13:04:42 2023
+# Process ID: 8604
+# Current directory: D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.runs/instruction_memory_ip_synth_1
+# Command line: vivado.exe -log instruction_memory_ip.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source instruction_memory_ip.tcl
+# Log file: D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.runs/instruction_memory_ip_synth_1/instruction_memory_ip.vds
+# Journal file: D:/vivado projects/JZ_project_2/JZ_project_2/JZ_project_2.runs/instruction_memory_ip_synth_1\vivado.jou
+#-----------------------------------------------------------
+source instruction_memory_ip.tcl -notrace
