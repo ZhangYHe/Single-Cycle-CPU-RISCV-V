@@ -102,9 +102,9 @@ module top(
 
     RF My_RF(.clk(clk),
              .rst(rst),
-             .reg1_addr(reg1_addr), 
-             .reg2_addr(reg2_addr),
-             .wr_reg_addr(wr_reg_addr),
+             .reg1_addr(inst[19:15]), 
+             .reg2_addr(inst[24:20]),
+             .wr_reg_addr(inst[11:7]),
              .RegWr(RegWr),
              .write_data(write_data),
              .reg1_data(reg1_data),

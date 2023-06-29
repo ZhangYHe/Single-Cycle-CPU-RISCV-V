@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="data_memory_ip_synth_1" LaunchPart="xc7a35tcsg324-1" LaunchTime="1687669490">
   <File Type="PA-TCL" Name="data_memory_ip.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="data_memory_ip_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="data_memory_ip_reports.tcl"/>
   <File Type="RDS-RDS" Name="data_memory_ip.vds"/>
-  <File Type="RDS-UTIL" Name="data_memory_ip_utilization_synth.rpt"/>
-  <File Type="RDS-UTIL-PB" Name="data_memory_ip_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="data_memory_ip.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="data_memory_ip_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="data_memory_ip_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/data_memory_ip">
     <File Path="$PSRCDIR/sources_1/ip/data_memory_ip/data_memory_ip.xci">
       <FileInfo>
