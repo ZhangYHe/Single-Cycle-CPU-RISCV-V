@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Jun 29 21:00:24 2023
+# Process ID: 10712
+# Current directory: D:/文件/作业/计算机组成与体系结构/Lab 2/张雲赫-1120200951-实验二/JZ_project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23524 D:\文件\作业\计算机组成与体系结构\Lab 2\张雲赫-1120200951-实验二\JZ_project_2\JZ_project_2.xpr
+# Log file: D:/文件/作业/计算机组成与体系结构/Lab 2/张雲赫-1120200951-实验二/JZ_project_2/vivado.log
+# Journal file: D:/文件/作业/计算机组成与体系结构/Lab 2/张雲赫-1120200951-实验二/JZ_project_2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/文件/作业/计算机组成与体系结构/Lab 2/张雲赫-1120200951-实验二/JZ_project_2/JZ_project_2.xpr}
+INFO: [Project 1-313] Project file moved from 'D:/vivado projects/JZ_project_2/JZ_project_2' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2019.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Jun 29 21:00:44 2023...
